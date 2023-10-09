@@ -4,9 +4,10 @@ I'm a professional web developer with 5 years of experience, with a special pass
 build their dream websites, whether they need just a few cool features, a complete user interface, a server linked  
 to a database, or an entire app designed and developed from scratch. I'm constantly learning and expanding my  
 knowledge, both in terms of technical skills, and deep understanding of how things work.  
-#### Check out
+#### Learn more
 - [x] [Webpage](https://thorn29.github.io)
 - [x] [LinkedIn](https://www.linkedin.com/in/marko-mutic/)
+- [x] [Email me](mailto:jthorn29@protonmail.com)
 
 ### Technologies 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
