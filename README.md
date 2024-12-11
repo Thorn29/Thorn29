@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/101182691/174660783-73c7109b-c85d-4d9f-85c1-0a6252f42c39.gif)
 
-I'm a professional software engineer with 6+ years of experience, specialized in technologies like React, Javascript, Node, etc. I help people  
-build their dream projects, whether they need just a few cool features, a complete user interface, a server linked  
+I'm a professional software engineer with 6+ years of experience, specialized in technologies like React, Javascript, Node, etc. 
+I help people build their dream projects, whether they need just a few cool features, a complete user interface, a server linked  
 to a database, or an entire app designed and developed from scratch. I'm also constantly learning and expanding my  
 knowledge, both in terms of technical skills, and in deep understanding of how things work, giving me the ability to   
 quickly adapt and thrive even when working on unfamiliar terrain.  
