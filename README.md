@@ -1,16 +1,14 @@
 ![logo](https://user-images.githubusercontent.com/101182691/174660783-73c7109b-c85d-4d9f-85c1-0a6252f42c39.gif)
 
+### About
+
 I'm a professional software engineer with 7+ years of experience, specialized in technologies such as React, Javascript, Typescript, Node, etc.  
   
-I help people build their dream projects, whether they need just a few cool features, a complete user interface, a server linked  
-to a database, or even an entire app designed and developed from scratch.  
-  
-I'm constantly working on expanding my knowledge, both in terms of technical skills, and in deeper understanding of how things fit together. That, combined with a versatile background, gives me the ability to   
-quickly adapt and thrive even when working on unfamiliar terrain.  
+I help people build their dream projects, whether they need just a few cool features, a complete user interface, a server linked to a database, or even an entire app designed and developed from scratch. I'm also constantly working on expanding my knowledge, both in terms of technical skills, and in deeper understanding of how things fit together. That, combined with a versatile background, gives me the ability to quickly adapt and thrive even when working on unfamiliar terrain.  
   
 Feel free to reach out to me for networking, collaboration, or exciting new opportunities. 
 
-#### Learn more
+### Learn more
 - [x] [LinkedIn](https://www.linkedin.com/in/marko-mutic/)
 - [x] [Webpage](https://thorn29.github.io)
 - [x] [Email me](mailto:jthorn29@protonmail.com)
