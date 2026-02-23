@@ -2,7 +2,7 @@
 
 ### About
 
-I'm a professional software engineer with 7+ years of experience, specialized in technologies such as React, Javascript, Typescript, Node, etc.  
+I'm a professional software engineer with 8+ years of experience, specialized in technologies such as React, Javascript, Typescript, Node, etc.  
   
 I help people build their dream projects, whether they need just a few cool features, a complete user interface, a server linked to a database, or even an entire app designed and developed from scratch. I'm also constantly working on expanding my knowledge, both in terms of technical skills, and in deeper understanding of how things fit together. That, combined with a versatile background, gives me the ability to quickly adapt and thrive even when working on unfamiliar terrain.  
   
